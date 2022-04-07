@@ -1,0 +1,26 @@
+body{
+    text-align: center; 
+    background-color: silver"
+}
+h1{
+    border:3px solid rgb(20, 20, 20);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align-last:left;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+}
+img{
+    max-width: 30px;
+}
+ol, ul{
+    text-align-last:left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
