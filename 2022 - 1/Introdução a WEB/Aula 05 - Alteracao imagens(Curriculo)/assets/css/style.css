@@ -1,0 +1,169 @@
+/*Divs Class*/
+
+.tudo{
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+    border: solid 3px;
+    background-color: rgba(141, 245, 245, 0.329);
+}
+
+.linha{
+    clear: both;
+}
+
+.objetivo{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: 30px;  
+    padding-bottom: 25px;  
+}
+
+.circle{
+    height: 10px;
+    width: 10px;
+    background-color: rgb(61, 61, 230);
+    border-radius: 50%;
+    float: right;
+    margin-left: 10px;
+}
+
+.itens{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.obj_form{
+    width: 95%;
+}
+
+
+/*Divs ID'S*/
+
+#foto{
+    width: 30%;
+    float: left;
+}
+
+#dados{
+    width: 70%;
+    float: left;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-top: 35px;
+}
+
+#formacao{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 30px;
+    margin-bottom: 35px;
+}
+
+#coluna1{
+    width: 45%;
+    float: left;
+    text-align: left;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 20px;    
+}
+
+#coluna2{
+    width: 1px;
+    height: 400px;
+    float: left;
+}
+
+#coluna3{
+    width: 45%;
+    float: left;
+    text-align: left;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#redessoc{
+    max-width: 200px;
+    max-height: 200px;
+    padding-top: 10px;
+    padding-left: 0px;
+    border-radius: 0%;
+}
+
+#linkedin{
+    max-width: 200px;
+    max-height: 200px;
+    padding-left: 0px;
+    margin-top: 20px;
+    border-radius: 0%;
+}
+
+#github{
+    max-width: 200px;
+    max-height: 200px;
+    padding-left: 0px;
+    margin-top: 20px;
+    border-radius: 0%;
+}
+
+/*Outras DIVS*/
+
+h1{
+    background-color: darkcyan;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    border: 4px solid;
+}
+
+img{
+    max-width: 250px;
+    max-height: 230px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+h2{
+    text-align: left;
+    font-size: 30px;
+    margin-left: 30px;
+    color: darkcyan;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0%;
+}
+
+h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0%;
+    color: darkcyan;
+}
+
+hr{
+    background-color: darkcyan;
+    margin-top: 0px;
+    border: 1px solid darkcyan;
+
+}
+
+span{
+    color: darkcyan;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+p{
+    margin-top: 0;
+}
+
+
+
