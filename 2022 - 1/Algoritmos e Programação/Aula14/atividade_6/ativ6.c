@@ -4,16 +4,17 @@
 int main(){
     UINT CPAGE_UTF8 = 65001;
     SetConsoleOutputCP(CPAGE_UTF8);
-    int senha, senhaValida = 1234;
-
-    printf("Digite sua senha: ");
+    int i, senha, senhaValida = 1234;
+    i=1;
+    printf("Digite sua senha:\n ");
     scanf("%d", &senha);
 
     while(senha != senhaValida){
-        printf("Senha invalida!\n\nDigite sua senha: ");
+        printf("Senha invalida! Acesso negado\nDigite sua senha:\n ");
         scanf("%d", &senha);
+        i++;
     }
 
-    printf("Acesso permitido!\n");
+    printf("Acesso permitido!\nVoce digitou a senha errada %d vezes.",i-1);
     return 0;
 }
