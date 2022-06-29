@@ -1,4 +1,4 @@
 # Ulbra-ADS
-Atividades realizadas do curdo de Análise e desenvolvimento de sistemas.
+Atividades realizadas do curso de Análise e desenvolvimento de sistemas.
 
 
