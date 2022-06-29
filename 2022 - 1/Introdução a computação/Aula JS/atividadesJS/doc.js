@@ -1,5 +1,5 @@
 var numero=1;
-console.log(typeof(numero));
+console.log(`O conteúdo`)(typeof(numero));
 var verdadeiro=true;
 console.log(typeof(verdadeiro));
 var nome='Gabriel';

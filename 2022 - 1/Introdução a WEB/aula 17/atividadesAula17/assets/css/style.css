@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(86, 86, 209);
+    font: normal 15pt Arial;
+}
+
+
+.tabela{
+    
+    border-radius: 10px;
+    height: 600px;
+    margin: auto;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.459);
+    
+
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}

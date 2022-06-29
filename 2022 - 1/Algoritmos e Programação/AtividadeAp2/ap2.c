@@ -9,7 +9,7 @@ int main(){
     printf("Lembrando que o voto é facultativo para analfabetos.\n");
     printf("Digite sua idade:\n");
     scanf("%d%*c",&idade);
-    if (idade>18 && idade<70){
+    if (idade>=18 && idade<70){
         printf("Você é maior de idade!\nO voto é obrigatório!!");
     }else if (idade>=16 && idade<18){
         printf("Voce é menor de idade.\nO voto é facultativo");
